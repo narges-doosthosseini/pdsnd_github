@@ -17,6 +17,6 @@ new_york_city.csv: Dataset containing bikeshare data for New York City.
 washington.csv: Dataset containing bikeshare data for Washington.
 
 ### Credits
-https://github.com/narges-doosthosseini/pdsnd_github
+https://github.com/udacity/pdsnd_github
 
 
